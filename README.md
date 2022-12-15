@@ -5,7 +5,6 @@ I'm Anne-Marie, a change manager and implementation specialist turned software d
 - 🌎 Currently based in Montreal, but I also call Berlin and Amsterdam home!
 - 👽 My first ever web project was a The X-Files fanpage using only HTML and Notepad when I was 12
 - 🔭 Working as a fullstack developer for [Kumojin](https://github.com/kumojin) and as a teacher for [Le Wagon](https://github.com/lewagon)
-- 💻 Mainly using Go, Ruby on Rails, TypeScript and SQL on my current projects
 - ✌️ Pronouns: she/they
 
 [![Linkedin: annemano](https://img.shields.io/badge/-annemano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annemano/)](https://www.linkedin.com/in/annemano/)
