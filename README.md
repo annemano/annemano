@@ -1,11 +1,13 @@
 ### Hi there 👋
-I'm Anne-Marie, a change manager and implementation specialist turned software developer in 2021. I graduated from Le Wagon's coding bootcamp in 2021 and continuing this exciting learning journey!
 
-### About Me
-- 🔭 I’m working as a fullstack developer for [Kumojin](https://github.com/kumojin) and as a teacher for [Le Wagon](https://github.com/lewagon)
-- 💻 I'm mainly using Go, Ruby on Rails, TypeScript and SQL on my current projects
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/annemano/) 
+I'm Anne-Marie, a change manager and implementation specialist turned software developer. I graduated from Le Wagon's coding bootcamp in 2021 and continuing this exciting learning journey!
+
+- 🌎 Currently based in Montreal, but I also call Berlin and Amsterdam home!
+- 🔭 Working as a fullstack developer for [Kumojin](https://github.com/kumojin) and as a teacher for [Le Wagon](https://github.com/lewagon)
+- 💻 Mainly using Go, Ruby on Rails, TypeScript and SQL on my current projects
 - 🙂 Pronouns: she/they
+
+[![Linkedin: annemano](https://img.shields.io/badge/-annemano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annemano/)](https://www.linkedin.com/in/annemano/)
 
 ### Main Tech Stack
 <div>
