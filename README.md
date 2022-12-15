@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anne-Marie, a change manager and implementation specialist turned software developer. I graduated from Le Wagon's coding bootcamp in 2021 and continuing this exciting learning journey!
+I'm Anne-Marie, a change manager and implementation specialist turned software developer. I graduated from Le Wagon's coding bootcamp in 2021 and am continuing this exciting learning journey ever since!
 
 - 🌎 Currently based in Montreal, but I also call Berlin and Amsterdam home!
 - 👽 My first ever web project was a The X-Files fanpage using only HTML and Notepad when I was 12
